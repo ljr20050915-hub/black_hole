@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://kh81llfe5ahw"]
+
+[ext_resource type="Script" uid="uid://dl0hqqyph8wsd" path="res://scripts/black_hole.gd" id="1"]
+
+[node name="BlackHoleViewer" type="Node" unique_id=59875599]
+script = ExtResource("1")
